@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_x.png",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_x.png"
+    },
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_settings.png",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_add.png",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_save.png",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_item.xml",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\layout\\task_item.xml"
+    },
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_tasks.xml",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\layout\\activity_my_tasks.xml"
+    },
+    {
+        "merged": "D:\\SQLite_Databse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tasks.xml",
+        "source": "D:\\SQLite_Databse\\app\\src\\main\\res\\layout\\activity_tasks.xml"
+    }
+]

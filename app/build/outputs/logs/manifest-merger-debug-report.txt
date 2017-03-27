@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:11:5-34:19
+	android:label
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.magbanua.mytasks.MyTasks
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:18:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.magbanua.mytasks.Tasks
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:27:9-28:57
+	android:label
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:28:16-45
+	android:name
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.magbanua.mytasks.SettingsActivity
+ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:30:9-32:57
+	android:label
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from D:\SQLite_Databse\app\src\main\AndroidManifest.xml:32:13-45
